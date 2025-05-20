@@ -1,0 +1,75 @@
+RMSE: 2285.713039541162
+MAE: 1672.1009765141735
+PMAE: 32.749478138471474
+
+Por Faixa:
+	Faixa 1:
+		MAE: 2698.26
+		RMSE: 3359.34
+		P-MAE: 142.39
+		N Amostras: 53
+	Faixa 2:
+		MAE: 1900.12
+		RMSE: 2642.41
+		P-MAE: 66.5
+		N Amostras: 52
+	Faixa 3:
+		MAE: 1732.55
+		RMSE: 2500.28
+		P-MAE: 43.69
+		N Amostras: 53
+	Faixa 4:
+		MAE: 1173.54
+		RMSE: 1412.19
+		P-MAE: 26.15
+		N Amostras: 53
+	Faixa 5:
+		MAE: 1579.78
+		RMSE: 2167.9
+		P-MAE: 31.6
+		N Amostras: 53
+	Faixa 6:
+		MAE: 1375.92
+		RMSE: 1950.66
+		P-MAE: 22.93
+		N Amostras: 52
+	Faixa 7:
+		MAE: 999.1
+		RMSE: 1382.97
+		P-MAE: 13.9
+		N Amostras: 53
+	Faixa 8:
+		MAE: 1553.4
+		RMSE: 1878.82
+		P-MAE: 19.31
+		N Amostras: 53
+	Faixa 9:
+		MAE: 1479.69
+		RMSE: 1978.84
+		P-MAE: 16.44
+		N Amostras: 53
+	Faixa 10:
+		MAE: 2007.55
+		RMSE: 2638.15
+		P-MAE: 20.05
+		N Amostras: 52
+	Faixa 11:
+		MAE: 1098.94
+		RMSE: 1487.5
+		P-MAE: 9.99
+		N Amostras: 52
+	Faixa 12:
+		MAE: 2039.43
+		RMSE: 3054.17
+		P-MAE: 17.0
+		N Amostras: 53
+	Faixa 13:
+		MAE: 1841.32
+		RMSE: 2419.6
+		P-MAE: 14.24
+		N Amostras: 52
+	Faixa 14:
+		MAE: 1927.23
+		RMSE: 2098.96
+		P-MAE: 13.73
+		N Amostras: 53
